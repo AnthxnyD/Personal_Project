@@ -43,3 +43,23 @@ section-m1 {
 body {
   width: 100%;
 }
+
+.logo {
+  max-width: 150px;
+  max-width: 150px;
+}
+
+#header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 80px;
+  background: #E3E6F3;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.6);
+}
+
+#navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

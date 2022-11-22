@@ -55,16 +55,17 @@ body{
 }
 
 .logo{
-max-width: 110px;
-max-width: 110px;
+max-width: 75px;
+max-width: 75px;
 }
 .cart{
-max-width: 80px;
-max-width: 80px;
+max-width: 65px;
+max-width: 65px;
 }
 
 #header{
 display: flex;
+height: 80px;
 align-items: center;
 justify-content: space-between;
 padding: 20px 80px;
@@ -114,7 +115,7 @@ justify-content: center;
 }
 
 #hero {
-    background-image: url("/assets/images/2.webp");
+    background-image: url("/assets/images/back.webp");
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -129,9 +130,17 @@ justify-content: center;
 }
 #hero h4{
     padding-bottom:15px;
+    color: #fff;
+    font-size: 25px;
 }
 #hero h1{
     color: #ed7c02;
+}
+#hero h2{
+    color: #ed7c02;
+}
+#hero p{
+    color: #fff;
 }
 #hero button{
     background-image: url("/assets/images/blob.svg");
@@ -240,7 +249,7 @@ background-color: #fff2e5;
 
 }
 #product1 .pro .des i {
-    font-size: 12px;
+    font-size: 20px;
     color: #fdde4f;
 }
 #product1 .pro .des h4{
@@ -294,4 +303,10 @@ background-position: center;
 #banner button:hover{
     background-color: #ed7c02;
     color: #222;
+}
+.star{
+    display: flex;
+    padding-top: 5px;
+    width: 150px;
+   
 }

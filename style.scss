@@ -285,6 +285,21 @@ background-color: #fff2e5;
     bottom: 20px;
     right: 10px;
 }
+#product1 .pro .cart:hover{
+
+    width: 41px;
+    height: 41px;
+    line-height: 41px;
+    border-radius: 50px;
+    background-color: #ffab52 ;
+    font-weight: 500;
+    
+    border: 1px solid #465b52;
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+}
+
 #banner{
 display: flex;
 flex-direction: column;

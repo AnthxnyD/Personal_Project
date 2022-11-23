@@ -357,11 +357,11 @@ body {
   align-items: flex-start;
   padding: 30px;
   background-image: url(/assets/images/2046.jpg);
-  min-width: 580px;
+  min-width: 820px;
   height: 50vh;
   background-size: cover;
   background-position: center;
-  padding: 17%;
+  padding: 30px;
 }
 
 #sm-banner .banner-box2 {

@@ -327,7 +327,6 @@ background-position: center;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-
 }
 #sm-banner .banner-box{
     display: flex;
@@ -336,13 +335,11 @@ background-position: center;
     align-items: flex-start;
     padding: 30px ;
     background-image:url(/assets/images/2046.jpg) ;
-    min-width: 580px;
+    min-width: 820px;
     height: 50vh;
     background-size: cover;
     background-position: center;
-    padding: 17%;
-
-
+    padding: 30px;
 }
 #sm-banner .banner-box2{
     background-image:url(/assets/images/SRPD79.webp) ;
